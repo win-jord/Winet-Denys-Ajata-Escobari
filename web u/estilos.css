@@ -1,0 +1,44 @@
+* 
+{
+    margin: 0px;
+}
+.nombre {
+    padding: 40px 60px 40px 60px;
+    background-color: rgb(204, 162, 162);
+    color: white;
+}
+.capa1
+{
+    padding: 80px 80px 80px 80px;
+    background-color: rgb(235, 4, 100);
+}
+.capa2
+{
+    padding: 70px 50px 70px 50px;
+    background-color: rgb(117, 4, 139); 
+}
+.capa3
+{
+    padding: 90px 70px 90px 70px;
+    background-color: rgb(41, 0, 221); 
+}
+.capa4
+{
+    padding: 110px 90px 110px 90px;
+    background-color: rgb(10, 172, 194); 
+}
+.capa5
+{
+    padding: 130x 110px 1300px 110px;
+    background-color: rgb(3, 216, 49); 
+}
+.capa6
+{
+    padding: 150px 130px 150px 130px;
+    background-color: rgb(215, 230, 11); 
+}
+.capa7
+{
+    padding: 170px 150px 170px 150px;
+    background-color:rgb(0, 0, 0); 
+}
